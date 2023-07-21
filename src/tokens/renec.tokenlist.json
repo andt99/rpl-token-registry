@@ -7544,19 +7544,6 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "8hQ1zearU9JLSKMkpoEMLqWeajKRTuYrnuUfz6dg2itW",
-      "name": "awtrawetg",
-      "symbol": "rafg",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhZVEJ1YTI5dWNYbGlOR2g0Tm1GaGVURnVNSE4yZEhSc2VEZHdaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWldsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxCeVpYWnBaWGRmVW05elpWOUhiMnhrWDBKcFoxOUpVVEV1Y0c1bklqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZFFjbVYyYVdWM1gxSnZjMlZmUjI5c1pGOUNhV2RmU1ZFeExuQnVad1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMM0J1WndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjoiMjAyMy0wNy0yMVQxNzo1MjowNC4xMzhaIiwicHVyIjoiYmxvYl9rZXkifX0=--52da05caaf0a813f1b8ffe145d160033b0c391d9/Preview_Rose_Gold_Big_IQ1.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
       "chainId": 101,
       "address": "8hQ1zearU9JLSKMkpoEMLqWeajKRTuYrnuUfz6dg2itW",
       "name": "awtrawetg",
