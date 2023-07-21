@@ -7529,6 +7529,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FoQ7tUWwpRbsS1ZCGjEepe5W7cEqzGzyxGzGPRVy5QzG",
+      "name": "Help Token",
+      "symbol": "HPP",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhiakIyWW1aMGMyVjRZek5sWmpCdk5YWnNjWGgzZERnd2MyeDRkQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1NMk5URTJPR1ZsWmpNNFpqSXpaREUzWVRsbExuQnVaeUk3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWXpZMU1UWTRaV1ZtTXpobU1qTmtNVGRoT1dVdWNHNW5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lPYVcxaFoyVXZjRzVuQmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjoiMjAyMy0wNy0yMVQxNzo1MjowMS4xMDlaIiwicHVyIjoiYmxvYl9rZXkifX0=--1bff5b98954f039e19a9fa7adfee51ca8b6c448d/c65168eef38f23d17a9e.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
